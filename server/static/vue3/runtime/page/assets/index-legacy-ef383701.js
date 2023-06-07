@@ -1,0 +1,2 @@
+System.register(["./useApp-legacy-df29a66b.js"],(function(e,t){"use strict";var n;return{setters:[e=>{n=e.u}],execute:function(){e("default",Vue.defineComponent({__name:"index",props:{config:null,model:{default:()=>({})}},setup:e=>(n({config:e.config,methods:{}}),(t,n)=>(Vue.openBlock(),Vue.createElementBlock("span",null,Vue.toDisplayString(e.config.text),1)))}))}}}));
+//# sourceMappingURL=index-legacy-ef383701.js.map

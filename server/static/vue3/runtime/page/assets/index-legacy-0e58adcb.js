@@ -1,0 +1,2 @@
+System.register(["./useApp-legacy-df29a66b.js"],(function(e,n){"use strict";var c;return{setters:[e=>{c=e.u}],execute:function(){const n=["src"];e("default",Vue.defineComponent({__name:"index",props:{config:null,model:{default:()=>({})}},setup(e){const o=e,t=()=>{o.config.url&&(window.location.href=o.config.url)};return c({config:o.config,methods:{}}),(c,o)=>(Vue.openBlock(),Vue.createElementBlock("img",{class:"magic-ui-img",src:e.config.src,onClick:t},null,8,n))}}))}}}));
+//# sourceMappingURL=index-legacy-0e58adcb.js.map
